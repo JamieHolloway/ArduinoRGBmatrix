@@ -1,0 +1,22 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "c:\\Users\\jamieho\\OneDrive2\\OneDrive\\repo\\RGBMatrix\\build\\sketch\\RGBMatrix.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "c:\\Users\\jamieho\\OneDrive2\\OneDrive\\repo\\RGBMatrix\\build\\sketch\\RGBMatrix.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]
